@@ -11,6 +11,9 @@ It provides insights into revenue trends, top customers, and customer distributi
 - **Customer Distribution by Country (Treemap Visualization)**  
 - **Average Markup Analysis**
 ## Sales Performance Dashboard
+![screenshot](https://github.com/sumanthsadala/Sales-Analytics-Dashboard-Snowflake-PowerBI/blob/39fe89197ed2cf47e9ff06929fcb1eb7e58cc43a/Sales%20Performance%20Dashboard.png)
+
+## Sales Insights Dashboard
 ![screenshot](https://github.com/sumanthsadala/Sales-Analytics-Dashboard-Snowflake-PowerBI/blob/56e2abcc437a522229a9efb3b3b407b72f8aa90f/Sales%20Insights%20Dashboard.png)
 ## 🛠️ Tools & Technologies  
 - **Power BI** (for visualization)  
