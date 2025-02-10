@@ -10,7 +10,8 @@ It provides insights into revenue trends, top customers, and customer distributi
 - **Total Revenue Trends by Year**  
 - **Customer Distribution by Country (Treemap Visualization)**  
 - **Average Markup Analysis**
-
+## Sales Performance Dashboard
+![screenshot]
 ## 🛠️ Tools & Technologies  
 - **Power BI** (for visualization)  
 - **Snowflake** (for data storage & processing)  
