@@ -18,5 +18,5 @@ It provides insights into revenue trends, top customers, and customer distributi
 
 ## 📂 Project Files  
 - `Power BI Capstone Project.pbix` - The Power BI project file  
-- `Sales Performance Dashboard.png` - Snapshot of the final dashboard
--  `
+- `Sales Performance Dashboard.png` - Snapshot of the Sales Performance Dashboard
+-  `Sales Insights Dashboard.png` - Snapshot of the Sales Insights Dashboard
