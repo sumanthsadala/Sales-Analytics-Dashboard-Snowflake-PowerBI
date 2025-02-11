@@ -24,3 +24,12 @@ It provides insights into revenue trends, top customers, and customer distributi
 - `Power BI Capstone Project.pbix` - The Power BI project file  
 - `Sales Performance Dashboard.png` - Snapshot of the Sales Performance Dashboard
 -  `Sales Insights Dashboard.png` - Snapshot of the Sales Insights Dashboard
+
+##How to Use
+1. Download and open Power BI Capstone Project.pbix in Power BI Desktop.
+2. Explore key sales metrics, including revenue, profit, and order trends.
+3. Use interactive filters to analyze performance across different regions, time periods, and product categories.
+4. Identify top-performing products and sales trends to make data-driven decisions.
+5. Leverage insights to optimize sales strategies and improve business performance.
+
+Feel free to modify it further as needed!
